@@ -394,13 +394,6 @@
   DOMAIN-SUFFIX,wargaming.com
   DOMAIN-SUFFIX,wargaming.net
   DOMAIN-SUFFIX,worldoftanks.com
-# > Xbox
-  DOMAIN-SUFFIX,xbox.com
-  DOMAIN-SUFFIX,gamepass.com
-  DOMAIN-SUFFIX,xboxab.com
-  DOMAIN-SUFFIX,xboxab.net
-  DOMAIN-SUFFIX,xboxlive.com
-  DOMAIN-SUFFIX,xboxservices.com
 # > Zynga
   DOMAIN-SUFFIX,zynga.com
   DOMAIN-SUFFIX,zynga.my
