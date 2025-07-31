@@ -24,6 +24,12 @@
   DOMAIN-SUFFIX,pubgmobile.com
   DOMAIN-SUFFIX,igamecj.com
   DOMAIN,file-igamecj.akamaized.net
+  DOMAIN,log-brofront.kraftonde.com
+  DOMAIN-SUFFIX,pubg.com
+  DOMAIN-SUFFIX,pubgbluehole.com
+  DOMAIN-SUFFIX,pubgha.com
+  DOMAIN-SUFFIX,pubwxp-mim.vivox.com
+  DOMAIN-SUFFIX,pubwxp.www.vivox.com
   IP-CIDR,45.40.220.0/22
   IP-CIDR,150.109.124.0/23
   IP-CIDR,49.51.228.0/23
